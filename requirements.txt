@@ -6,7 +6,6 @@ certifi==2025.1.31
 charset-normalizer==3.4.1
 click==8.1.8
 colorama==0.4.6
-comtypes==1.4.10
 emoji==2.14.1
 flexcache==0.3
 flexparser==0.4
@@ -20,9 +19,9 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
 narwhals==1.29.0
-numpy==2.2.3
+numpy==1.24.3
 packaging==24.2
-pandas==2.2.3
+pandas==1.5.3
 pillow==11.1.0
 Pint==0.24.4
 platformdirs==4.3.6
@@ -30,12 +29,7 @@ protobuf==5.29.3
 pyarrow==19.0.1
 pydeck==0.9.1
 Pygments==2.19.1
-pyjokes==0.8.3
-pypiwin32==223
-python-dateutil==2.9.0.post0
-pyttsx3==2.98
 pytz==2025.1
-pywin32==308
 referencing==0.36.2
 requests==2.32.3
 rich==13.9.4
